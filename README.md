@@ -23,7 +23,7 @@ That led me to experiment with **parallax motion**, **3D rotation**, and **scrol
 
 ---
 
-## 🧠 What I Learned
+## 🧠 What I Learnt
 
 - How **`GeometryReader`** helps track each card’s position in a scroll view.  
 - How **`rotation3DEffect`** and **offset** can fake “depth” with just a few lines of code.  
